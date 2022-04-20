@@ -1,0 +1,16 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+;
+}
+.App main {
+  flex: 1;
+}
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 10px;
+
+}

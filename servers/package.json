@@ -1,0 +1,23 @@
+{
+  "name": "lyrical",
+  "version": "1.0.0",
+  "description": "Starter point for a graphQL course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.16.0",
+    "corn": "0.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.7.8",
+    "nodemon": "*"
+  }
+}
